@@ -1,8 +1,9 @@
 ---
-title: Nope test 2
+title: AWS security 1/4
 date: 2017-01-04T15:04:10.000Z
 description: Hello second test.
-image: /img/blog-chemex.jpg
+image: >-
+  /img/architecture-example-simplified.7bf4c12459610bd4b524ec265433559609c854f6.png
 ---
 
 This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
